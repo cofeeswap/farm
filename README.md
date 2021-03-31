@@ -1,6 +1,7 @@
 # CoffeeSwap Farming and Staking
 
-(https://github.com/coffeswap/farm/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-farm/actions)
+(https://github.com/coffeswap/farm/workflows/CI/badge.svg)
+(https://github.com/coffeswap/farm/actions)
 
 https://coffeemaker.finance. Feel free to read the code. More details coming soon.
 
